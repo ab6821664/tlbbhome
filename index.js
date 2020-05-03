@@ -1,6 +1,6 @@
 let target = {
     name:'learn git',
-    sex:'male',
+    sex:'male11',
     data:8
 
 }
