@@ -1,3 +1,4 @@
 let target = {
-    name:'learn git'
+    name:'learn git',
+    sex:'male'
 }
