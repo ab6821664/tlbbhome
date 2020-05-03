@@ -5,14 +5,5 @@ let target = {
     ttt:0
 }
 
-    let b=[1,5,66,5]
-    let test = function(){
-      this.age = 8;
-      this.name='baowei'
-    }
-    test.prototype.action = 'run'
-    let key = new(test)
 
-     for(let item of b){
-          console.log(item)
-     }
+     let b = '以前我们不懂'
