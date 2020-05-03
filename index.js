@@ -4,3 +4,9 @@ let target = {
     data:8
 
 }
+
+  function learn(){
+    for(let keys of target ){
+        console.log(keys)
+    }
+  }
